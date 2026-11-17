@@ -1,0 +1,9 @@
+items.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+
+.playwright-mcp/
+*.tmp
